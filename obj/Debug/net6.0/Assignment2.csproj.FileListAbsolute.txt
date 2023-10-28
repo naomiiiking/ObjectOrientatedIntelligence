@@ -1,0 +1,15 @@
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/bin/Debug/net6.0/Assignment2
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/bin/Debug/net6.0/Assignment2.deps.json
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/bin/Debug/net6.0/Assignment2.runtimeconfig.json
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/bin/Debug/net6.0/Assignment2.dll
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/bin/Debug/net6.0/Assignment2.pdb
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.csproj.AssemblyReference.cache
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfoInputs.cache
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfo.cs
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.dll
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/refint/Assignment2.dll
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.pdb
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/Assignment2.genruntimeconfig.cache
+/Users/naomiking/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/2023 SEM 2/CAB201/Assignment3/Assignment2/Assignment2/obj/Debug/net6.0/ref/Assignment2.dll
