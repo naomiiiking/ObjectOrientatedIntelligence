@@ -1,3 +1,4 @@
+![mockup](https://github.com/naomiiiking/ObjectOrientatedIntelligence/assets/82499114/70331493-e6e0-48c5-9a39-28bcc77356f9)
 # ObjectOrientatedIntelligence
 👋 Hello! Here is a project I made for CAB201: Programming Principles. 
 The focus was on utilisting objective orientated programming to create a terminal game, using C#.
